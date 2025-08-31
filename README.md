@@ -1,2 +1,2 @@
-👋 Hi, I’m @joshua-nock - I am a geospatial developer based in Bristol, UK
-👀 I’m interested in all things map related 🗺️
+👋 Hi, I’m @joshua-nock - I am a cartographer based in Gloucester, UK
+I’m a UK-based cartographer. I’m passionate about exploring how cartography can reveal trends and patterns in geospatial data, turning complex information into meaningful insights about our planet. 🗺️
